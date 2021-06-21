@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>zabolotnyi_zpi_zp_92_lab_kpi_3</RootNamespace>
+  </PropertyGroup>
+
+</Project>
